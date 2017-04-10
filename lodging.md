@@ -57,7 +57,7 @@ Hong Kong housing is known to be quite small world-wide.  Even if the unit featu
 
 There is at least 1 mall and food establishments nearby most lodging locations in Hong Kong-- enjoy the convenience! 																									
 
-Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We <b>DO NOT RECOMMEND</b> staying in Shenzhen as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
+Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We <b>DO NOT RECOMMEND staying in Shenzhen</b> as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
 																									
 If there's any questions, please contact us for more details.  We'll provide a potential list of lodging locations in due time.  Stay tuned. 																									
 																									
