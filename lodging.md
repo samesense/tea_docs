@@ -3,7 +3,7 @@ The main event starts at <b><i>Noon, November 21, 2017 Hong Kong local time</b><
 (GMT +8, 13-16 hour ahead of US mainland time). 
 
 For our overseas Guests:
-Please make sure you depart your home by November 20, 2017 to ensure you would make it to our event.
+Please make sure you depart your home by <b>November 20, 2017</b> to ensure you would make it to our event.
 																									
 ### Transiting via other countries on US passport
 
@@ -20,7 +20,7 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 
 \*\*If you are only transiting through the cities in \*, it does not look like you need to clear custom and immigration.  However, your mileage may vary.  Check with your airline for more details'
 
-\*\*\*You will clear US customs in Canada
+\*\*\*You will clear US Customs on Canadian soil.  Please note that US Customs does not operate 24 hours a day in Canadian airports.   
 
 ## Communication
 ### Wifi
@@ -30,6 +30,8 @@ HK airport has free wifi available.
 Hong Kong's cell coverage is very good.  SIM card is available at HKG airport. 
 
 Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher.  
+
+To use a pre-paid SIM card, you must have a GSM-based unlocked phone.  Talk to your neighborhood tech guys for details if you need assistance.  
 
 HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.  
 Buy online ahead of arrival and pick up at A13 kiosk:  https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/ 		
