@@ -5,7 +5,7 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 																									
 ### Transiting via other countries on US passport
 
-| |Leaving for Hong Kong| | Leaving for US | |
+| |Leaving for|Hong Kong| Leaving for|US |
 | :--- | :---: | :---: | :---: | :---: |
 | | <b>Clear custom? | <b>Requires visa? | <b>Clear custom? | <b>Requires visa? |
 | Canada | No | No |Yes\*\*\*| No |
