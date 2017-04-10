@@ -11,16 +11,34 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 | Japan | No | No |
 |South Korea| No | No| 
 |Taiwan| No| No|
-|China|	No**|	No*|
+|China|	No\*\*| No\*|
 
 #### Leaving for US		
 | |clear custom?| requires visa?|
 | :--- | :---: | :---: |
-|Canada	|Yes***| No |
+|Canada	|Yes\*\*\*| No |
 |Japan|	No | No|
 |South Korea| No | No |
 |Taiwan | No | No|
-|China| No** | No*| 
+|China| No\*\* | No\*| 
+
+|Leaving for Hong Kong| | |
+| | Clear custom? | Requires visa? |
+| :--- | :---: | :---: |
+| Canada | No | No |
+| Japan | No | No |
+|South Korea| No | No| 
+|Taiwan| No| No|
+|China|	No\*\*| No\*|
+
+#### Leaving for US		
+| |clear custom?| requires visa?|
+| :--- | :---: | :---: |
+|Canada	|Yes\*\*\*| No |
+|Japan|	No | No|
+|South Korea| No | No |
+|Taiwan | No | No|
+|China| No\*\* | No\*| 
 
 \*There is a 72 hour transit visa available for Beijing travellers and a 144 hours transit visa available for Shanghai and Guangdong travellers.  There are other cities in China that also have this policy-- you can find this info online
 
@@ -55,8 +73,11 @@ To minimize transit time, we recommend that you stay in the Kowloon area.  If yo
 We do not recommend staying north of Sha Tin and North/West of Mei Foo if you decide to stay in New Territory	
 
 While Hong Kong Island is very popular with tourist, you must go across the harbor to access the rest of Hong Kong.  While public transportation is very convenient, the cost of cross-harbor trips is typically higher.  Please keep this in mind if you decide to stay on Hong Kong Island. 																									
+
 Hong Kong housing is known to be quite small world-wide.  Even if the unit features several bedrooms, they are likely to be very small.  Keep in mind that a 1,000 sqft apartment is considered a luxury and not a norm. Please adjust your expectation accordingly. 																									
+
 There is at least 1 mall and food establishments nearby most lodging locations in Hong Kong-- enjoy the convenience! 																									
+
 Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We <b>DO NOT RECOMMEND</b> staying in Shenzhen as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
 																									
 If there's any questions, please contact us for more details.  We'll provide a potential list of lodging locations in due time.  Stay tuned. 																									
