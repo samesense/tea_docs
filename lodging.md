@@ -22,23 +22,14 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 |Taiwan | No | No|
 |China| No\*\* | No\*| 
 
-|Leaving for Hong Kong| | |
-| | Clear custom? | Requires visa? |
-| :--- | :---: | :---: |
-| Canada | No | No |
-| Japan | No | No |
-|South Korea| No | No| 
-|Taiwan| No| No|
-|China|	No\*\*| No\*|
-
-#### Leaving for US		
-| |clear custom?| requires visa?|
-| :--- | :---: | :---: |
-|Canada	|Yes\*\*\*| No |
-|Japan|	No | No|
-|South Korea| No | No |
-|Taiwan | No | No|
-|China| No\*\* | No\*| 
+| |Leaving for Hong Kong  | |Leaving for US| |
+| :--- | :---: | :---: | :---: | :---: |
+| | <b>Clear custom? | <b>Requires visa? | <b>Clear custom? | <b>Requires visa? |
+| Canada | No | No |Yes\*\*\*| No |
+| Japan | No | No |No | No|
+|South Korea| No | No| No | No |
+|Taiwan| No| No| No | No|
+|China|	No\*\*| No\*| No\*\* | No\*| 
 
 \*There is a 72 hour transit visa available for Beijing travellers and a 144 hours transit visa available for Shanghai and Guangdong travellers.  There are other cities in China that also have this policy-- you can find this info online
 
@@ -51,8 +42,9 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 HK airport has free wifi available.  
 
 ### SIM card purchase 
-Hong Kong's cell coverage is very good.  SIM card is available at HKG airport
-Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher 
+Hong Kong's cell coverage is very good.  SIM card is available at HKG airport. 
+
+Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher.  
 
 HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.  
 Buy online ahead of arrival and pick up at A13 kiosk:  https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/ 		
