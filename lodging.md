@@ -1,11 +1,13 @@
 ### Fly to Hong Kong International Airport (HKG) 																									
-The main event starts at Noon, November 21, 2017 Hong Kong local time
-(GMT +8, 13-16 hour ahead of US mainland time). For our overseas Guests:
+The main event starts at <b><i>Noon, November 21, 2017 Hong Kong local time</b></i>
+(GMT +8, 13-16 hour ahead of US mainland time). 
+
+For our overseas Guests:
 Please make sure you depart your home by November 20, 2017 to ensure you would make it to our event.
 																									
 ### Transiting via other countries on US passport
 
-| |Leaving for|Hong Kong| Leaving for|US |
+| |<p align=right>Leaving for|<p align=left>Hong Kong|<p align=right>Leaving for|<p align=left>US |
 | :--- | :---: | :---: | :---: | :---: |
 | | <b>Clear custom? | <b>Requires visa? | <b>Clear custom? | <b>Requires visa? |
 | Canada | No | No |Yes\*\*\*| No |
@@ -34,14 +36,14 @@ Buy online ahead of arrival and pick up at A13 kiosk:  https://www.klook.com/ac
 The representatives at the kiosk will help you set up your phone.  I recommend getting your SIM this way.
 
 ## Lodging
-Overview of Hong Kong's Geography: 					
+### Hong Kong's Geography Overview: 					
  																				
-Hong Kong consists of 2 main land masses, which were divided into 3 areas: 					
+Hong Kong consists of 2 main land masses, which are divided into 3 areas: 					
 * Hong Kong Island 												
 * Kowloon (peninsula off the southern part of New Territory) 								
 * New Territory (rest of Hong Kong)																									
 
-there are also 100s of outlying island，of which the airport is located on one of the largest. 																									
+There are also 100s of outlying island，of which the airport is located on one of the largest. 																									
 The north side of New Territory connects to mainland China, separated by a river 				
 
 To minimize transit time, we recommend that you stay in the Kowloon area.  If you prefer to stay in New Territory, stay as close to a MTR line as possible.  																									
