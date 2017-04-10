@@ -4,25 +4,8 @@ The main event starts at Noon, November 21, 2017 Hong Kong local time
 Please make sure you depart your home by November 20, 2017 to ensure you would make it to our event.
 																									
 ### Transiting via other countries on US passport
-#### Leaving for Hong Kong
-| | Clear custom? | Requires visa? |
-| :--- | :---: | :---: |
-| Canada | No | No |
-| Japan | No | No |
-|South Korea| No | No| 
-|Taiwan| No| No|
-|China|	No\*\*| No\*|
 
-#### Leaving for US		
-| |clear custom?| requires visa?|
-| :--- | :---: | :---: |
-|Canada	|Yes\*\*\*| No |
-|Japan|	No | No|
-|South Korea| No | No |
-|Taiwan | No | No|
-|China| No\*\* | No\*| 
-
-| |Leaving for Hong Kong  | |Leaving for US| |
+| |Leaving for Hong Kong| | Leaving for US | |
 | :--- | :---: | :---: | :---: | :---: |
 | | <b>Clear custom? | <b>Requires visa? | <b>Clear custom? | <b>Requires visa? |
 | Canada | No | No |Yes\*\*\*| No |
