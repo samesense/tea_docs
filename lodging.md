@@ -9,19 +9,39 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 | :--- | :---: | :---: |
 | Canada | No | No |
 | Japan | No | No |
-														
-																									
-### Lodging
-Buy online ahead of arrival:  https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/ 																				
-Overview of Hong Kong's Geography: 					The representatives at the kiosk will help you set up your phone.  I recommend getting your SIM this way. 																				
+|South Korea| No | No| 
+|Taiwan| No| No|
+|China|	No**|	No*|
+
+#### Leaving for US		
+| |clear custom?| requires visa?|
+| :--- | :---: | :---: |
+|Canada	|Yes***| No |
+|Japan|	No | No|
+|South Korea| No | No |
+|Taiwan | No | No|
+|China| No** | No*| 
+
+*There is a 72 hour transit visa available for Beijing travellers and a 144 hours transit visa available for Shanghai and Guangdong travellers.  There are other cities in China that also have this policy-- you can find this info online
+**If you are only transiting through the cities in *, it does not look like you need to clear custom and immigration.  However, your mileage may vary.  Check with your airline for more details
+***You will clear US customs in Canada
+
+## Communication
+HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.  
+Buy online ahead of arrival and pick up at A13 kiosk:  https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/ 		
+The representatives at the kiosk will help you set up your phone.  I recommend getting your SIM this way.
+
+＃## Lodging
+Overview of Hong Kong's Geography: 					
+ 																				
 Hong Kong consists of 2 main land masses, which were divided into 3 areas: 																									
-Hong Kong Island 																									
-Kowloon (peninsula off the southern part of New Territory) 																									
+Hong Kong Island 												
+Kowloon (peninsula off the southern part of New Territory) 								
 New Territory (rest of Hong Kong)																									
 																									
 there are also 100s of outlying island，of which the airport is located on one of the largest. 																									
-The north side of New Territory connects to mainland China, separated by a river 																									
-																									
+The north side of New Territory connects to mainland China, separated by a river 				
+
 To minimize transit time, we recommend that you stay in the Kowloon area.  If you prefer to stay in New Territory, stay as close to a MTR line as possible.  																									
 We do not recommend staying north of Sha Tin and North/West of Mei Foo if you decide to stay in New Territory																									
 While Hong Kong Island is very popular with tourist, you must go across the harbor to access the rest of Hong Kong.  While public transportation is very convenient, the cost of cross-harbor trips is typically higher.  Please keep this in mind if you decide to stay on Hong Kong Island. 																									
