@@ -22,33 +22,42 @@ Please make sure you depart your home by November 20, 2017 to ensure you would m
 |Taiwan | No | No|
 |China| No** | No*| 
 
-*There is a 72 hour transit visa available for Beijing travellers and a 144 hours transit visa available for Shanghai and Guangdong travellers.  There are other cities in China that also have this policy-- you can find this info online
-**If you are only transiting through the cities in *, it does not look like you need to clear custom and immigration.  However, your mileage may vary.  Check with your airline for more details
-***You will clear US customs in Canada
+\*There is a 72 hour transit visa available for Beijing travellers and a 144 hours transit visa available for Shanghai and Guangdong travellers.  There are other cities in China that also have this policy-- you can find this info online
+
+\*\*If you are only transiting through the cities in \*, it does not look like you need to clear custom and immigration.  However, your mileage may vary.  Check with your airline for more details'
+
+\*\*\*You will clear US customs in Canada
 
 ## Communication
+### Wifi
+HK airport has free wifi available.  
+
+### SIM card purchase 
+Hong Kong's cell coverage is very good.  SIM card is available at HKG airport
+Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher 
+
 HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.  
 Buy online ahead of arrival and pick up at A13 kiosk:  https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/ 		
 The representatives at the kiosk will help you set up your phone.  I recommend getting your SIM this way.
 
-＃## Lodging
+## Lodging
 Overview of Hong Kong's Geography: 					
  																				
-Hong Kong consists of 2 main land masses, which were divided into 3 areas: 																									
-Hong Kong Island 												
-Kowloon (peninsula off the southern part of New Territory) 								
-New Territory (rest of Hong Kong)																									
-																									
+Hong Kong consists of 2 main land masses, which were divided into 3 areas: 					
+* Hong Kong Island 												
+* Kowloon (peninsula off the southern part of New Territory) 								
+* New Territory (rest of Hong Kong)																									
+
 there are also 100s of outlying island，of which the airport is located on one of the largest. 																									
 The north side of New Territory connects to mainland China, separated by a river 				
 
 To minimize transit time, we recommend that you stay in the Kowloon area.  If you prefer to stay in New Territory, stay as close to a MTR line as possible.  																									
-We do not recommend staying north of Sha Tin and North/West of Mei Foo if you decide to stay in New Territory																									
+We do not recommend staying north of Sha Tin and North/West of Mei Foo if you decide to stay in New Territory	
+
 While Hong Kong Island is very popular with tourist, you must go across the harbor to access the rest of Hong Kong.  While public transportation is very convenient, the cost of cross-harbor trips is typically higher.  Please keep this in mind if you decide to stay on Hong Kong Island. 																									
-																									
 Hong Kong housing is known to be quite small world-wide.  Even if the unit features several bedrooms, they are likely to be very small.  Keep in mind that a 1,000 sqft apartment is considered a luxury and not a norm. Please adjust your expectation accordingly. 																									
 There is at least 1 mall and food establishments nearby most lodging locations in Hong Kong-- enjoy the convenience! 																									
-Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We DO NOT RECOMMEND staying in Shenzhen as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
+Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We <b>DO NOT RECOMMEND</b> staying in Shenzhen as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
 																									
 If there's any questions, please contact us for more details.  We'll provide a potential list of lodging locations in due time.  Stay tuned. 																									
 																									
