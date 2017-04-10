@@ -27,7 +27,7 @@ Please make sure you depart your home by <b>November 20, 2017</b> to ensure you 
 HK airport has free wifi available.  
 
 ### SIM card purchase 
-Hong Kong's cell coverage is very good.  SIM card is available at HKG airport. 
+Hong Kong's cell coverage is very good.  Pre-paid SIM card is available at HKG airport. 
 
 Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher.  
 
@@ -35,7 +35,7 @@ To use a pre-paid SIM card, you must have a GSM-based unlocked phone.  Talk to y
 
 HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.  
 Buy online ahead of arrival and pick up at A13 kiosk:  https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/ 		
-The representatives at the kiosk will help you set up your phone.  I recommend getting your SIM this way.
+The representatives at the kiosk will help you set up your phone.  We recommend getting your SIM this way.
 
 ## Lodging
 ### Hong Kong's Geography Overview: 					
@@ -53,11 +53,13 @@ We do not recommend staying north of Sha Tin and North/West of Mei Foo if you de
 
 While Hong Kong Island is very popular with tourist, you must go across the harbor to access the rest of Hong Kong.  While public transportation is very convenient, the cost of cross-harbor trips is typically higher.  Please keep this in mind if you decide to stay on Hong Kong Island. 																									
 
-Hong Kong housing is known to be quite small world-wide.  Even if the unit features several bedrooms, they are likely to be very small.  Keep in mind that a 1,000 sqft apartment is considered a luxury and not a norm. Please adjust your expectation accordingly. 																									
+Hong Kong housing is known to be quite small world-wide.  Even if the unit features several bedrooms, they are likely to be very small.  Keep in mind that a 1,000 sqft apartment is considered a luxury and not a norm. Please adjust your expectation accordingly. 
+
+Also, as a rule, Hong Kong's noise and light pollution are worse than majority of the cities in US or Europe.  If you need absolute darkness and silence to sleep, please make sure to bring earplugs and eye masks.  
 
 There is at least 1 mall and food establishments nearby most lodging locations in Hong Kong-- enjoy the convenience! 																									
 
-Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We <b>DO NOT RECOMMEND staying in Shenzhen</b> as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
+Certain aparement sharing sites would provide listings in Shenzhen as well when searching for lodging in Hong Kong.  We <b>ABSOLUTELY DO NOT RECOMMEND staying in Shenzhen</b> as it is on mainland China side.  You will need to go across the border each day to access Hong Kong.  																									
 																									
 If there's any questions, please contact us for more details.  We'll provide a potential list of lodging locations in due time.  Stay tuned. 																									
 																									
