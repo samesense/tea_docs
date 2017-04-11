@@ -21,3 +21,21 @@ Please make sure you depart your home by <b>November 20, 2017</b> to ensure you 
 \*\*If you are only transiting through the cities in \*, it does not look like you need to clear custom and immigration.  However, your mileage may vary.  Check with your airline for more details'
 
 \*\*\*You will clear US Customs on Canadian soil.  Please note that US Customs does not operate 24 hours a day in Canadian airports.   
+
+### From the Airport to town
+
+There are 3 main ways to get out of the Airport:  Airport Express, A-Buses/E-Buses/N-Buses, Taxis 
+
+#### Airport Express 
+* Run by MTR
+* guarantee fastest way to get to Central (Hong Kong Island) and Kowloon 
+* Fairly expensive to get out of the airport 
+
+### A-Buses/E-Buses/N-Buses 
+* Run by different bus companies.  N buses run overnight  
+* Goes to different regions of Hong Kong 
+* Good choice if lodging is near a bus station (chances are, they would be) 
+
+### Taxis 
+* most expensive, but offers direct route to lodging
+* need to pay tolls, baggage fees along with metered rate
