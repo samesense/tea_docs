@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="ss" type="text/css" />
+</head>
+<body>
+<p>/<em> </em> I add this to html files generated with pandoc. */</p>
+<p>html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }</p>
+<p>body { color: #444; font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif; font-size: 12px; line-height: 1.7; padding: 1em; margin: auto; max-width: 42em; background: #fefefe; }</p>
+<p>a { color: #0645ad; text-decoration: none; }</p>
+<p>a:visited { color: #0b0080; }</p>
+<p>a:hover { color: #06e; }</p>
+<p>a:active { color: #faa700; }</p>
+<p>a:focus { outline: thin dotted; }</p>
+<p>*::-moz-selection { background: rgba(255, 255, 0, 0.3); color: #000; }</p>
+<p>*::selection { background: rgba(255, 255, 0, 0.3); color: #000; }</p>
+<p>a::-moz-selection { background: rgba(255, 255, 0, 0.3); color: #0645ad; }</p>
+<p>a::selection { background: rgba(255, 255, 0, 0.3); color: #0645ad; }</p>
+<p>p { margin: 1em 0; }</p>
+<p>img { max-width: 100%; }</p>
+<p>h1, h2, h3, h4, h5, h6 { color: #111; line-height: 125%; margin-top: 2em; font-weight: normal; }</p>
+<p>h4, h5, h6 { font-weight: bold; }</p>
+<p>h1 { font-size: 2.5em; }</p>
+<p>h2 { font-size: 2em; }</p>
+<p>h3 { font-size: 1.5em; }</p>
+<p>h4 { font-size: 1.2em; }</p>
+<p>h5 { font-size: 1em; }</p>
+<p>h6 { font-size: 0.9em; }</p>
+<p>blockquote { color: #666666; margin: 0; padding-left: 3em; border-left: 0.5em #EEE solid; }</p>
+<p>hr { display: block; height: 2px; border: 0; border-top: 1px solid #aaa; border-bottom: 1px solid #eee; margin: 1em 0; padding: 0; }</p>
+<p>pre, code, kbd, samp { color: #000; font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: 0.98em; }</p>
+<p>pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }</p>
+<p>b, strong { font-weight: bold; }</p>
+<p>dfn { font-style: italic; }</p>
+<p>ins { background: #ff9; color: #000; text-decoration: none; }</p>
+<p>mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }</p>
+<p>sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }</p>
+<p>sup { top: -0.5em; }</p>
+<p>sub { bottom: -0.25em; }</p>
+<p>ul, ol { margin: 1em 0; padding: 0 0 0 2em; }</p>
+<p>li p:last-child { margin-bottom: 0; }</p>
+<p>ul ul, ol ol { margin: .3em 0; }</p>
+<p>dl { margin-bottom: 1em; }</p>
+<p>dt { font-weight: bold; margin-bottom: .8em; }</p>
+<p>dd { margin: 0 0 .8em 2em; }</p>
+<p>dd:last-child { margin-bottom: 0; }</p>
+<p>img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }</p>
+<p>figure { display: block; text-align: center; margin: 1em 0; }</p>
+<p>figure img { border: none; margin: 0 auto; }</p>
+<p>figcaption { font-size: 0.8em; font-style: italic; margin: 0 0 .8em; }</p>
+<p>table { margin-bottom: 2em; border-bottom: 1px solid #ddd; border-right: 1px solid #ddd; border-spacing: 0; border-collapse: collapse; }</p>
+<p>table th { padding: .2em 1em; background-color: #eee; border-top: 1px solid #ddd; border-left: 1px solid #ddd; }</p>
+<p>table td { padding: .2em 1em; border-top: 1px solid #ddd; border-left: 1px solid #ddd; vertical-align: top; }</p>
+<p>.author { font-size: 1.2em; text-align: center; }</p>
+<p><span class="citation">@media</span> only screen and (min-width: 480px) { body { font-size: 14px; } } <span class="citation">@media</span> only screen and (min-width: 768px) { body { font-size: 16px; } } <span class="citation">@media</span> print { * { background: transparent !important; color: black !important; filter: none !important; -ms-filter: none !important; }</p>
+<p>body { font-size: 12pt; max-width: 100%; }</p>
+<p>a, a:visited { text-decoration: underline; }</p>
+<p>hr { height: 1px; border: 0; border-bottom: 1px solid black; }</p>
+<p>a[href]:after { content: &quot; (&quot; attr(href) &quot;)&quot;; }</p>
+<p>abbr[title]:after { content: &quot; (&quot; attr(title) &quot;)&quot;; }</p>
+<p>.ir a:after, a[href^=&quot;javascript:&quot;]:after, a[href^=&quot;#&quot;]:after { content: &quot;&quot;; }</p>
+<p>pre, blockquote { border: 1px solid #999; padding-right: 1em; page-break-inside: avoid; }</p>
+<p>tr, img { page-break-inside: avoid; }</p>
+<p>img { max-width: 100% !important; }</p>
+<p><span class="citation">@page</span> :left { margin: 15mm 20mm 15mm 10mm; }</p>
+<p><span class="citation">@page</span> :right { margin: 15mm 10mm 15mm 20mm; }</p>
+<p>p, h2, h3 { orphans: 3; widows: 3; }</p>
+<p>h2, h3 { page-break-after: avoid; } }</p>
+<h2 id="group-tours">Group tours</h2>
+<p>We will try to leverage a group discount where applicable. Please note that we may combine, move or cancel tours depending on signup activities.</p>
+<p>*Date would change to maximize people who would like to join</p>
+<h3 id="full-day-tours">Full Day Tours</h3>
+<p>The following paid full day tours are available. Prices listed are pre-group discount.</p>
+<table style="width:97%;">
+<colgroup>
+<col width="6%" />
+<col width="15%" />
+<col width="9%" />
+<col width="23%" />
+<col width="11%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tour</th>
+<th>Tour Name</th>
+<th>Location</th>
+<th>Price include meal?</th>
+<th>Most likely date*</th>
+<th>Approximate Price (USD/person)</th>
+<th>Meal Price (if not included)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>Macau 1 or 2 days</td>
+<td>Macau</td>
+<td>No</td>
+<td>Nov 23</td>
+<td>$35 min</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>Hong Kong Geological park boat tour</td>
+<td>at sea</td>
+<td>Yes</td>
+<td>Nov 24</td>
+<td>$75 min</td>
+<td>N/A</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>Ngong Ping 360 Cable Car + Big Buddha/Tai O</td>
+<td>Lantau Island</td>
+<td>No</td>
+<td>Nov 20</td>
+<td>$20 min one way, $25 min round trip</td>
+<td>$13 max</td>
+</tr>
+<tr class="even">
+<td>D</td>
+<td>Hong Kong Wetland Park + seafood</td>
+<td>Tin Shui Wai, Lau Fau Shan</td>
+<td>Yes</td>
+<td>Nov 19 or Nov 25</td>
+<td>?</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="shorter-tours">Shorter Tours</h3>
+<p>The following paid shorter tours are available. Prices listed are pre-group discount.</p>
+<table style="width:97%;">
+<colgroup>
+<col width="6%" />
+<col width="15%" />
+<col width="9%" />
+<col width="23%" />
+<col width="11%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tour</th>
+<th>Tour Name</th>
+<th>Location</th>
+<th>Price include meal?</th>
+<th>Most likely date*</th>
+<th>Approximate Price (USD/person)</th>
+<th>Meal Price (if not included)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>E</td>
+<td>Tolo Harbor biking tour + group grilling</td>
+<td>Shatin, Taipo, Tai Mei Duk</td>
+<td>No</td>
+<td>Nov 22</td>
+<td>$8 min</td>
+<td>$13 min</td>
+</tr>
+<tr class="even">
+<td>F</td>
+<td>Night Cruise on Victoria Harbor</td>
+<td>Tsim Sha Tsui, at sea</td>
+<td>Yes</td>
+<td>Nov 21</td>
+<td>?</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<p>The following free, short tours are available:</p>
+<table style="width:97%;">
+<colgroup>
+<col width="6%" />
+<col width="15%" />
+<col width="9%" />
+<col width="23%" />
+<col width="11%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tour</th>
+<th>Tour Name</th>
+<th>Location</th>
+<th>Price include meal?</th>
+<th>Most likely date*</th>
+<th>Approximate Price (USD/person)</th>
+<th>Meal Price (if not included)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>K</td>
+<td>Ten Thousand Buddha Monastery</td>
+<td>Shatin</td>
+<td>No</td>
+<td>N/A</td>
+<td>Free</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>L</td>
+<td>Jao Tsung-I Academy</td>
+<td>Lai Chi Kok</td>
+<td>No</td>
+<td>N/A</td>
+<td>Free</td>
+<td>?</td>
+</tr>
+<tr class="odd">
+<td>M</td>
+<td>Sam Tun UK Museum</td>
+<td>Tsuen Wang</td>
+<td>No</td>
+<td>N/A</td>
+<td>Free</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>N</td>
+<td>Tai Fu Tai Mension</td>
+<td>?</td>
+<td>No</td>
+<td>N/A</td>
+<td>Free</td>
+<td>?</td>
+</tr>
+<tr class="odd">
+<td>O</td>
+<td>Wong Tai Sin Temple</td>
+<td>Wong Tai Sin } No</td>
+<td>N/A</td>
+<td>Free</td>
+<td>?</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>P</td>
+<td>Kowloon Walled City Park</td>
+<td>Kowloon City</td>
+<td>No</td>
+<td>N/A</td>
+<td>Free</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="group-ticket-purchase">Group Ticket Purchase</h3>
+<p>The following group ticket deals are potentially available. Prices listed are pre-group discount.</p>
+<table style="width:97%;">
+<colgroup>
+<col width="6%" />
+<col width="15%" />
+<col width="9%" />
+<col width="23%" />
+<col width="11%" />
+<col width="15%" />
+<col width="15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tour</th>
+<th>Tour Name</th>
+<th>Location</th>
+<th>Price include meal?</th>
+<th>Most likely date*</th>
+<th>Approximate Price (USD/person)</th>
+<th>Meal Price (if not included)}</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>G</td>
+<td>Ocean Park</td>
+<td>Ocean Park</td>
+<td>No</td>
+<td>N/A</td>
+<td>$57</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>H</td>
+<td>Disneyland Hong Kong</td>
+<td>Sunny Bay, Lantau Island</td>
+<td>No</td>
+<td>N/A</td>
+<td>$77</td>
+<td>?</td>
+</tr>
+<tr class="odd">
+<td>I</td>
+<td>Peak Tram</td>
+<td>Central, at Peak</td>
+<td>No</td>
+<td>N/A</td>
+<td>$8 min</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>J</td>
+<td>Hong Kong Observation Wheel</td>
+<td>Central</td>
+<td>No</td>
+<td>N/A</td>
+<td>$13</td>
+<td>?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="tour-description">Tour Description</h3>
+<h4 id="macau-1-or-2-day-tour">Macau 1 or 2 Day Tour</h4>
+<ul>
+<li>fast ferry: 1 hour</li>
+<li>Price includes round trip boat ride to Macau, ex-Portuguese colony. &quot;eastern las vegas&quot; or &quot;Lisbon east&quot;</li>
+<li>try some Chinese-Portuguese fusion food, or other local specialities (e.g. pork chop bun, almond biscuit)</li>
+<li>see ruins of cathedral, fort, portuguese settler museums, museum of macau. wander around senado square, avenida de almeida ribeiro</li>
+<li>play a couple hands at the various casino, or just wander around &quot;little Venice&quot; and the like within it</li>
+<li>nothing is included in the price outside of ferry fare</li>
+<li>need to bring your passport for custom/immigration</li>
+<li>for 2 day, hotel reservation would be needed and not included in the price</li>
+</ul>
+<h4 id="hong-kong-geological-park-boat-tour">Hong Kong Geological Park boat tour</h4>
+<ul>
+<li>see hong kong geo park from the ocean -- one of the largest hexagonal column formation of its kind in the world</li>
+<li>also accessible by public transit land-side, but the best part requires a boat</li>
+<li>includes boat tour, Hakka style lunch, and english guide</li>
+<li>30 people max. less people = higher cost per person. ～10% tips not included</li>
+<li>http://www.geopark.gov.hk/en_news.htm</li>
+</ul>
+<h4 id="ngong-ping-360-cable-car-big-buddhatai-o">Ngong Ping 360 Cable Car + Big Buddha/Tai O</h4>
+<ul>
+<li>take Ngong Ping 360 cable car to visit Big buddha on Lantau Island</li>
+<li>Big buddha is located inside Po Lin Monastery.<br />
+</li>
+<li>Have a vegetarian lunch at Po Lin Monastery</li>
+<li>check out the houses on stilts in Tai O -- either via public bus/taxi, group tour on a tour bus, or hike</li>
+<li>tour or ngong ping 360 tickets available. prices quoted for ngong ping 360 tickets only</li>
+<li>pricing may fluctuate. group discount not applied, especially for vegetarian food</li>
+<li>you can get to big buddha via an extremely high difficulty hike</li>
+<li>https://www.np360.com.hk/en/</li>
+<li>http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail04.htm</li>
+</ul>
+<h4 id="hong-kong-wetland-park-seafood">Hong Kong Wetland Park + seafood</h4>
+<ul>
+<li>Visit Hong Kong's Estuary, where tidal pools provide habitats for sea creatures and migratory birds</li>
+<li>Seafood market at Lau Fau Shan area.</li>
+</ul>
+<h4 id="tolo-harbor-biking-tour-group-grilling">Tolo Harbor biking tour + group grilling</h4>
+<ul>
+<li>start at Sha Tin and bike along Tolo Harbor</li>
+<li>along the way: Hong Kong Science Park, temple, Tai Po Waterfront Park. also great view along the harbor</li>
+<li>multiple starting/stopping points: sha tin, tai po, and tai mei duk. 1 way bike rental is OK</li>
+<li>stop at tai mei duk for group grilling. Price is all you can eat on basic foodstuff but does not include drinks and other service fees (e.g. grill starting). no outside drinks allowed</li>
+<li>can continue biking to Plover Cove Reservoir</li>
+<li>sha tin to tai po trail -- easy</li>
+<li>after tai po -- slightly difficult</li>
+<li>if you really like biking, you can start at tai wei and end at Plover Cove Reservoir and back</li>
+<li>multi-people bike available, but it won't be $8/person</li>
+</ul>
+<h4 id="night-cruise-on-victoria-harbor">Night Cruise on Victoria Harbor</h4>
+<ul>
+<li>Party the night away in front of beautiful backdrops along Victoria Harbor</li>
+<li>If timing is good we can see the Light Symphony on the waters</li>
+<li>light dinner included</li>
+<li>there may be a surprise during the tour -- stay tuned</li>
+</ul>
+<h4 id="ten-thousand-buddha-monastary">ten thousand buddha monastary</h4>
+<ul>
+<li>hike up from sha tin area on concrete stairs</li>
+<li>many buddha statues along the way up the monastary</li>
+<li>once up the hill, there's great view of the New Territories</li>
+<li>optional lunch: roasted pigeons</li>
+</ul>
+<h4 id="jao-tsung-i-academy">Jao Tsung-I academy</h4>
+<ul>
+<li>museum that focuses on chinese culture situated in a historic building</li>
+<li>on-site dining has old-style chinese food and new western style vegetarian food</li>
+<li>http://www.jtia.hk/en/about-us/hkipcc-introduction/</li>
+</ul>
+<h4 id="sam-tun-uk-museum">sam tun uk museum</h4>
+<ul>
+<li>museum is situated in a old hakka village home</li>
+<li>discussed hakka village culture and the like</li>
+<li>http://www.lcsd.gov.hk/CE/Museum/ICHO/en_US/web/icho/sam_tung_uk_museum.html</li>
+</ul>
+<h4 id="tai-fu-tai-mansion">tai fu tai mansion</h4>
+<ul>
+<li>residence of a famous scholar/rich person, built in late Qing Dynasty</li>
+<li>see the layout of a old chinese residence</li>
+<li>free admission</li>
+<li>a bit difficult to get to (no MTR station nearby, need to take a minibus/bus)</li>
+<li>http://www.lcsd.gov.hk/CE/Museum/Monument/en/monuments_32.php#</li>
+</ul>
+<h4 id="wong-tai-sin-temple">Wong Tai Sin temple</h4>
+<ul>
+<li>a taoism temple for Wong Tai Sin</li>
+<li>there's a small, chinese style garden inside the temple</li>
+<li>temple part is free, the chinese style garden has a small admission fee</li>
+<li>http://www1.siksikyuen.org.hk/en/wong-tai-sin*temple</li>
+</ul>
+<h4 id="kowloon-walled-city-park">Kowloon Walled City Park</h4>
+<ul>
+<li>situated at the same location as the fabled &quot;kowloon walled city&quot;</li>
+<li>chinese style park, with some historic artifacts to see</li>
+<li>http://www.lcsd.gov.hk/CE/Museum/Monument/en/monuments_62.php</li>
+</ul>
+<h4 id="ocean-park">Ocean Park</h4>
+<ul>
+<li>combination of seaworld, zoo, and six flags</li>
+<li>has panda!</li>
+<li>https://www.oceanpark.com.hk/en</li>
+</ul>
+<h4 id="disneyland-hong-kong">Disneyland Hong Kong</h4>
+<ul>
+<li>disneyland... not much more to say about that</li>
+<li>special, disneyland themed MTR train runs to Disneyland from Sunny Bay. separate ticket required</li>
+<li>https://www.hongkongdisneyland.com/</li>
+</ul>
+<h4 id="peak-tram">peak tram</h4>
+<ul>
+<li>great view of Kowloon from the Peak</li>
+<li>group discount not included</li>
+<li>http://www.thepeak.com.hk/en/home.asp</li>
+</ul>
+<h4 id="hong-kong-observation-wheel">Hong kong observation wheel</h4>
+<ul>
+<li>giant ferris wheel located near Central Pier</li>
+<li>see the view and feel the sea breeze</li>
+<li>http://www.hkow.hk/en/</li>
+</ul>
+</body>
+</html>
